@@ -1,3 +1,5 @@
+![Banner](header-img.png)
+
 ### Hi there 👋
 
 <!--
